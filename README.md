@@ -31,6 +31,8 @@ Next compare the co-ordinates to check whether finger is open or close.
 If open, append 1 in list and for close fingers append 0 in list.
 At last count total fingers and dispay it using its corresponding image and cv2.putText the count of fingers.
 
+Video access Link: <a href="https://drive.google.com/file/d/1DywwWep3h_pIXfMfBrThQmvijBNGhUQd/view?usp=sharing">Explaination and demo Link</a>
+
 
 ### Demo images
 
