@@ -3,7 +3,7 @@
 ## Team Project:
 
 1. Harshit Jain 18UCS104
-2. Swarnendu Ganguli 18UCS037
+2. Swarnendu Ganguli 18UCS068
 3. Rhea Ravi Sharma 18UCS111
 
 MediaPipe is a cross-platform framework for building multimodal applied machine learning pipelines.
